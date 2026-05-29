@@ -2,7 +2,7 @@ module.exports = {
   cliente: {
     nome: "Nirocred",
     subdomain: "nirocred-bi",
-    coolify_app_uuid: "",
+    coolify_app_uuid: "ej25g67yp4mhjvrqmcrsdpew",
     cor_primaria: "#8b5cf6",
   },
   fontes: {
