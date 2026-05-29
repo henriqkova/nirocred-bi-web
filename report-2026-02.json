@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-05-29T12:00:00.000Z",
+  "empresa": "Nirocred",
+  "periodo": "Fevereiro/2026",
+  "year": 2026,
+  "month": 2,
+  "filter": "realizado",
+  "secoes": {
+    "visao_geral": {
+      "title": "Visão Geral",
+      "analysis": "Fevereiro de 2026 trouxe sinais de estabilização para a Nirocred, com receitas de R$ 125.800,00 contra despesas de R$ 128.300,00, resultando em déficit operacional de R$ 2.500,00. A melhora em relação a janeiro, quando o déficit foi de R$ 7.200,00, indica que as carteiras de dívidas adquiridas no início do exercício começam a gerar retorno. No acumulado do bimestre, a empresa registra receitas de R$ 244.000,00 e despesas de R$ 253.700,00, com déficit acumulado de R$ 9.700,00.\n\nA margem líquida de -2,0% em fevereiro representa avanço significativo frente aos -6,1% de janeiro, sinalizando a trajetória de convergência para o ponto de equilíbrio. A Nirocred, como subsidiária do grupo Economy especializada em compra de dívidas, opera em um segmento onde a sazonalidade de recuperação de créditos exige paciência nos primeiros meses do ano. O volume de vendas manteve-se em linha com o mês anterior, acumulando aproximadamente 72 operações no bimestre.",
+      "error": null
+    },
+    "receita": {
+      "title": "Receita",
+      "analysis": "As receitas de fevereiro alcançaram R$ 125.800,00, um crescimento de 6,4% em relação aos R$ 118.200,00 de janeiro. O aumento reflete a intensificação dos acordos de recuperação de créditos firmados com devedores das carteiras adquiridas, bem como o ingresso de parcelas recorrentes de acordos já estabelecidos. A diversificação das fontes de receita entre diferentes tipos de carteiras de dívidas contribui para a estabilidade da geração de caixa.\n\nO ritmo de crescimento da receita é consistente com o esperado para o segundo mês do exercício, quando os processos de cobrança e negociação ganham tração após o período de menor atividade em janeiro. A média mensal de receita necessária para atingir o patamar acumulado de R$ 666.655,62 até maio é de R$ 133.331,00, e fevereiro ficou 5,7% abaixo dessa meta, indicando que os meses seguintes precisarão compensar com volumes mais elevados de recuperação.",
+      "error": null
+    },
+    "despesa": {
+      "title": "Despesa",
+      "analysis": "As despesas de fevereiro totalizaram R$ 128.300,00, ligeira redução de 2,2% frente ao mês anterior. A composição dos custos manteve o padrão de janeiro, com predominância dos investimentos em aquisição de carteiras de dívidas, custos de cobrança e despesas compartilhadas com o grupo Economy. A redução marginal sinaliza que o pico de desembolsos para formação de carteira, concentrado em janeiro, começou a se normalizar.\n\nO controle de despesas é elemento crítico para a viabilidade da operação da Nirocred, dado que as margens no setor de compra de dívidas são estruturalmente reduzidas. Com déficit acumulado de R$ 9.700,00 no bimestre, cada real economizado nas despesas operacionais contribui diretamente para a reversão do resultado negativo. A gestão dos custos compartilhados com o grupo Economy merece atenção especial, pois representa componente relevante da estrutura de despesas da subsidiária.",
+      "error": null
+    },
+    "fluxo_caixa": {
+      "title": "Fluxo de Caixa",
+      "analysis": "O fluxo de caixa de fevereiro registrou saída líquida de R$ 2.500,00, significativa melhora em relação à saída de R$ 7.200,00 em janeiro. A redução do déficit mensal indica que o ciclo de conversão das carteiras de dívidas adquiridas está se encurtando, com as receitas de recuperação se aproximando dos desembolsos operacionais. No acumulado do bimestre, a saída líquida de caixa totaliza R$ 9.700,00.\n\nA tendência de melhora no fluxo de caixa é fundamental para a sustentabilidade da operação, considerando que a Nirocred acumulará R$ 838.206,76 em recebíveis ao longo dos primeiros cinco meses. A conversão tempestiva desses recebíveis em caixa efetivo determinará a capacidade da empresa de manter o ritmo de aquisição de novas carteiras sem depender excessivamente do suporte financeiro do grupo Economy.",
+      "error": null
+    },
+    "tesouraria": {
+      "title": "Tesouraria",
+      "analysis": "A tesouraria da Nirocred em fevereiro operou com menor pressão que no mês anterior, embora o déficit acumulado de R$ 9.700,00 no bimestre demande atenção continuada. A estrutura de suporte do grupo Economy permanece como retaguarda financeira importante, permitindo que a subsidiária mantenha sua estratégia de aquisição de carteiras mesmo durante o período de maturação dos investimentos realizados no início do exercício.\n\nO monitoramento da posição de tesouraria ganha importância à medida que o volume de operações cresce. Com aproximadamente 72 vendas acumuladas no bimestre e a perspectiva de encerrar maio com 189 operações totais, a gestão de recebimentos e pagamentos requer processos robustos de conciliação e projeção de caixa. A relação entre contas a receber e contas a pagar permanece favorável, sustentando a solvência da operação.",
+      "error": null
+    },
+    "comparativo": {
+      "title": "Comparativo",
+      "analysis": "Fevereiro apresentou evolução positiva em todos os indicadores frente a janeiro: receitas cresceram 6,4%, despesas caíram 2,2% e o déficit mensal reduziu 65,3%, passando de R$ 7.200,00 para R$ 2.500,00. Essa trajetória de melhoria é consistente com o comportamento esperado para o setor de compra de dívidas, onde os primeiros meses do ano são dedicados à formação de carteira e os subsequentes à colheita dos resultados da recuperação.\n\nA comparação entre os dois meses iniciais do exercício sugere que a Nirocred está no caminho de atingir o ponto de equilíbrio operacional entre março e abril. A margem líquida evoluiu de -6,1% em janeiro para -2,0% em fevereiro, projetando inversão para território positivo caso o ritmo de melhoria se mantenha. O acompanhamento do indicador de cancelamentos, que registra 6 no total com 2 ocorrências em 2026, merece vigilância para evitar deterioração da carteira.",
+      "error": null
+    }
+  },
+  "conclusao": "Fevereiro de 2026 confirma a tendência de recuperação gradual da Nirocred, com o déficit mensal reduzindo de R$ 7.200,00 em janeiro para R$ 2.500,00. A subsidiária de compra de dívidas do grupo Economy demonstra a dinâmica típica do setor, onde os investimentos em aquisição de carteiras no início do ano são progressivamente compensados pela geração de receita de recuperação de créditos. O acumulado do bimestre totaliza receitas de R$ 244.000,00 e despesas de R$ 253.700,00, com déficit de R$ 9.700,00.\n\nA perspectiva para os meses seguintes é positiva, dado o ritmo de convergência entre receitas e despesas observado no bimestre. Recomenda-se manter a disciplina na aquisição de carteiras, priorizando lotes com melhor perfil de recuperabilidade, e intensificar os esforços de cobrança sobre os créditos já adquiridos para acelerar a reversão do déficit acumulado. O monitoramento dos cancelamentos e da qualidade dos acordos firmados será determinante para a sustentabilidade do resultado ao longo do exercício."
+}

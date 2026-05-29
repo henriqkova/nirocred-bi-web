@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-05-29T12:00:00.000Z",
+  "empresa": "Nirocred",
+  "periodo": "Março/2026",
+  "year": 2026,
+  "month": 3,
+  "filter": "realizado",
+  "secoes": {
+    "visao_geral": {
+      "title": "Visão Geral",
+      "analysis": "Março de 2026 marca a inflexão positiva da Nirocred no exercício, com receitas de R$ 138.500,00 superando as despesas de R$ 132.100,00 e gerando resultado líquido positivo de R$ 6.400,00. Após dois meses consecutivos de déficit, a subsidiária de compra de dívidas do grupo Economy alcançou o ponto de equilíbrio operacional, refletindo a maturação das carteiras adquiridas no início do ano. No acumulado do trimestre, as receitas somam R$ 382.500,00 contra despesas de R$ 385.800,00, com déficit acumulado reduzido para R$ 3.300,00.\n\nA margem líquida mensal de 4,6% em março contrasta com os resultados negativos de janeiro (-6,1%) e fevereiro (-2,0%), evidenciando a recuperação progressiva esperada no modelo de negócio de compra de dívidas. O volume de operações manteve crescimento consistente, acumulando aproximadamente 112 vendas no trimestre. A trajetória indica que a Nirocred poderá zerar o déficit acumulado do exercício já em abril, desde que a taxa de recuperação dos créditos se mantenha no patamar atual.",
+      "error": null
+    },
+    "receita": {
+      "title": "Receita",
+      "analysis": "As receitas de março totalizaram R$ 138.500,00, representando crescimento de 10,1% sobre fevereiro e de 17,2% sobre janeiro. O aumento robusto decorre da maturação dos acordos de recuperação firmados nos meses anteriores, com parcelas recorrentes se somando a novos acordos celebrados em março. A receita mensal superou pela primeira vez a média necessária de R$ 133.331,00 para atingir o acumulado anual projetado, sinalizando que a operação de compra de dívidas atingiu velocidade de cruzeiro.\n\nA composição das receitas reflete a diversificação da carteira de créditos da Nirocred, com diferentes perfis de dívidas adquiridas gerando fluxos de recuperação em prazos distintos. A estratégia de aquisição no início do ano começa a apresentar retorno mensurável, com a taxa de recuperação se mostrando adequada frente ao custo de aquisição das carteiras. O crescimento consecutivo da receita nos três primeiros meses do ano confirma a previsibilidade do modelo de negócio.",
+      "error": null
+    },
+    "despesa": {
+      "title": "Despesa",
+      "analysis": "As despesas de março totalizaram R$ 132.100,00, incremento de 3,0% frente a fevereiro, porém ainda abaixo do pico de janeiro. O aumento reflete a continuidade dos investimentos em aquisição de carteiras de dívidas, aliado aos custos operacionais crescentes decorrentes do maior volume de operações em processamento. A estrutura de custos da Nirocred se mantém concentrada na compra de carteiras e nos custos compartilhados com o grupo Economy.\n\nO aspecto relevante em março é que, apesar do aumento absoluto das despesas, a receita cresceu proporcionalmente mais, resultando na primeira margem positiva do exercício. O controle de custos operacionais deve permanecer como prioridade, considerando que o setor de compra de dívidas opera com margens estreitas e qualquer desvio na estrutura de despesas pode comprometer rapidamente a rentabilidade. A meta é manter as despesas em patamar estável enquanto as receitas continuam sua trajetória ascendente.",
+      "error": null
+    },
+    "fluxo_caixa": {
+      "title": "Fluxo de Caixa",
+      "analysis": "O fluxo de caixa de março registrou entrada líquida de R$ 6.400,00, primeira geração positiva de caixa no exercício. Essa reversão reflete o amadurecimento do ciclo operacional da compra de dívidas, com as receitas de recuperação superando os desembolsos com aquisição e operação. No acumulado do trimestre, a saída líquida reduziu para R$ 3.300,00, indicando que a empresa se aproxima da neutralidade de caixa no ano.\n\nA geração positiva de caixa em março é particularmente relevante para a estratégia de aquisição de novas carteiras, pois reduz a dependência do suporte financeiro do grupo Economy. A Nirocred acumulará R$ 838.206,76 em recebíveis ao longo dos cinco primeiros meses, e a conversão adequada desses valores em caixa é o principal vetor de sustentação do fluxo financeiro. A manutenção de entradas líquidas positivas nos meses seguintes será fundamental para consolidar a autonomia financeira da subsidiária.",
+      "error": null
+    },
+    "tesouraria": {
+      "title": "Tesouraria",
+      "analysis": "A tesouraria da Nirocred apresentou melhora significativa em março, com a geração positiva de R$ 6.400,00 reduzindo a pressão acumulada nos dois primeiros meses. O déficit acumulado de R$ 3.300,00 no trimestre é gerenciável dentro da estrutura financeira do grupo Economy, e a tendência de melhoria sugere normalização da posição de caixa nos próximos meses. A gestão integrada de tesouraria com o grupo permite otimização de recursos e acesso a condições mais favoráveis de financiamento.\n\nO estoque de recebíveis em formação constitui ativo relevante na posição de tesouraria, representando fluxo futuro de caixa que suportará as operações correntes. A relação entre contas a receber e contas a pagar da Nirocred permanece amplamente favorável, com recebíveis superando significativamente as obrigações. Essa assimetria positiva confere segurança à gestão de tesouraria, mesmo considerando a taxa de inadimplência esperada sobre os créditos em recuperação.",
+      "error": null
+    },
+    "comparativo": {
+      "title": "Comparativo",
+      "analysis": "A evolução trimestral da Nirocred demonstra trajetória consistente de melhoria: janeiro (-R$ 7.200,00), fevereiro (-R$ 2.500,00) e março (+R$ 6.400,00). A inversão de tendência em março confirma a tese de que o modelo de compra de dívidas apresenta sazonalidade previsível, com investimentos concentrados no início do ano e retorno crescente nos meses subsequentes. A receita mensal cresceu 17,2% de janeiro a março, enquanto as despesas aumentaram apenas 5,3% no mesmo período.\n\nO comparativo trimestral revela melhoria expressiva na eficiência operacional, com a margem líquida evoluindo de -6,1% em janeiro para +4,6% em março. Se mantido o ritmo atual, a projeção para o acumulado de janeiro a maio aponta para resultado líquido positivo, revertendo completamente o déficit dos dois primeiros meses. O número de cancelamentos permanece baixo, com apenas 2 ocorrências em 2026 dentro de um total histórico de 6, indicando boa qualidade dos acordos firmados.",
+      "error": null
+    }
+  },
+  "conclusao": "Março de 2026 representa o ponto de inflexão para a Nirocred, com o primeiro resultado mensal positivo do exercício em R$ 6.400,00, reduzindo o déficit acumulado no trimestre para apenas R$ 3.300,00. A subsidiária de compra de dívidas do grupo Economy demonstra que a estratégia de investimento agressivo em carteiras no início do ano começa a gerar retorno, validando o modelo de negócio e a qualidade das aquisições realizadas. As receitas acumuladas de R$ 382.500,00 frente a despesas de R$ 385.800,00 evidenciam a convergência para o equilíbrio.\n\nO desafio para o segundo trimestre é consolidar a trajetória positiva, mantendo o crescimento das receitas de recuperação enquanto controla rigorosamente os custos operacionais. Com margens estreitas características do setor de compra de dívidas, a Nirocred precisa sustentar taxas de recuperação adequadas e minimizar cancelamentos para garantir que o resultado acumulado do exercício permaneça em território positivo. A integração com o grupo Economy segue sendo vantagem competitiva relevante na gestão financeira da operação."
+}

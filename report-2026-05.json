@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-05-29T12:00:00.000Z",
+  "empresa": "Nirocred",
+  "periodo": "Maio/2026",
+  "year": 2026,
+  "month": 5,
+  "filter": "realizado",
+  "secoes": {
+    "visao_geral": {
+      "title": "Visão Geral",
+      "analysis": "Maio de 2026 encerra o primeiro quadrimestre com resultado positivo de R$ 2.940,77, mantendo a Nirocred em território superavitário pelo terceiro mês consecutivo. As receitas de R$ 143.955,62 atingiram o maior patamar mensal do exercício, porém as despesas também alcançaram seu pico em R$ 141.014,85, comprimindo a margem operacional. No acumulado de janeiro a maio, a subsidiária de compra de dívidas do grupo Economy totaliza receitas de R$ 666.655,62 e despesas de R$ 657.614,85, com resultado líquido de R$ 9.040,77.\n\nA margem líquida acumulada de apenas 1,4% no período de cinco meses evidencia a natureza de margens estreitas inerente ao negócio de compra de dívidas. O volume total de 189 vendas e 3.259 movimentos financeiros processados refletem operação de alta intensidade transacional. Apesar da margem reduzida, o resultado positivo confirma a viabilidade do modelo operacional da Nirocred, que gera valor através do volume de operações e da eficiência na recuperação de créditos adquiridos.",
+      "error": null
+    },
+    "receita": {
+      "title": "Receita",
+      "analysis": "As receitas de maio alcançaram R$ 143.955,62, o maior valor mensal do exercício e crescimento de 2,7% sobre abril. O acumulado de janeiro a maio totaliza R$ 666.655,62, demonstrando crescimento consistente mês a mês desde o início do ano. O aumento de receita reflete tanto a maturação contínua das carteiras adquiridas quanto o volume crescente de acordos de recuperação, com 189 vendas totais filtradas para a operação Nirocred no período.\n\nA taxa de crescimento da receita vem desacelerando naturalmente, de 10,1% entre fevereiro e março para 2,7% entre abril e maio, sugerindo estabilização no patamar de R$ 140.000,00 a R$ 145.000,00 mensais. Esse nível representa a capacidade de geração de receita da carteira atual de créditos em recuperação, e incrementos adicionais dependerão de novas aquisições de carteiras ou da melhoria na taxa de recuperação dos créditos existentes. A receita média mensal de R$ 133.331,12 no período está alinhada com a projeção operacional.",
+      "error": null
+    },
+    "despesa": {
+      "title": "Despesa",
+      "analysis": "As despesas de maio totalizaram R$ 141.014,85, o maior patamar mensal do exercício e aumento de 7,8% sobre abril. O salto nas despesas reflete investimentos em novas carteiras de dívidas e possíveis custos operacionais adicionais associados ao volume crescente de 3.259 movimentos financeiros processados no acumulado. O acumulado de despesas no período atinge R$ 657.614,85, resultando em margem líquida acumulada de apenas 1,4% sobre as receitas.\n\nO aumento expressivo das despesas em maio é ponto de atenção, pois comprimiu a margem mensal para 2,0%, significativamente abaixo dos 6,7% de abril e 4,6% de março. Se a tendência de crescimento dos custos se mantiver nos meses seguintes sem correspondente aumento de receitas, o resultado acumulado do exercício pode ser comprometido. A gestão de custos deve ser intensificada, com revisão das rubricas que mais contribuíram para o aumento, especialmente os custos de aquisição de carteiras e as despesas compartilhadas com o grupo Economy.",
+      "error": null
+    },
+    "fluxo_caixa": {
+      "title": "Fluxo de Caixa",
+      "analysis": "O fluxo de caixa de maio registrou entrada líquida de R$ 2.940,77, inferior aos R$ 9.400,00 de abril devido ao aumento das despesas. No acumulado dos cinco meses, o fluxo de caixa líquido positivo de R$ 9.040,77 confirma que a operação gera caixa, embora em volume modesto. O estoque de contas a receber de R$ 838.206,76 representa fluxo futuro significativo que sustentará as operações nos próximos meses, enquanto as obrigações a pagar de R$ 74.817,42 são amplamente cobertas pela posição de recebíveis.\n\nA relação entre recebíveis de R$ 838.206,76 e obrigações de R$ 74.817,42 resulta em cobertura de 11,2 vezes, proporcionando colchão robusto de liquidez para a operação. Contudo, a efetiva conversão dos recebíveis em caixa depende da taxa de recuperação dos créditos adquiridos e do cumprimento dos acordos firmados com devedores. O gerenciamento do prazo médio de recebimento é variável crítica no fluxo de caixa de uma empresa de compra de dívidas como a Nirocred.",
+      "error": null
+    },
+    "tesouraria": {
+      "title": "Tesouraria",
+      "analysis": "A tesouraria da Nirocred encerra maio com posição estável, sustentada pelo superávit acumulado de R$ 9.040,77 nos cinco primeiros meses. A posição líquida entre contas a receber de R$ 838.206,76 e contas a pagar de R$ 74.817,42 resulta em saldo positivo de R$ 763.389,34, demonstrando solvência robusta da operação. A integração com a estrutura financeira do grupo Economy continua sendo fator relevante na gestão de tesouraria, permitindo otimização do capital de giro e acesso a condições favoráveis de financiamento.\n\nO volume de 3.259 movimentos financeiros processados no período demanda infraestrutura de tesouraria proporcional, com processos automatizados de conciliação, controle de vencimentos e projeção de caixa. A gestão eficiente da tesouraria é elemento diferencial competitivo no setor de compra de dívidas, onde a capacidade de honrar compromissos pontualmente e disponibilizar recursos para novas aquisições determina a sustentabilidade e o crescimento da operação.",
+      "error": null
+    },
+    "comparativo": {
+      "title": "Comparativo",
+      "analysis": "A análise comparativa dos cinco primeiros meses de 2026 revela a trajetória completa do ciclo operacional da Nirocred: déficit em janeiro (-R$ 7.200,00) e fevereiro (-R$ 2.500,00), inflexão positiva em março (+R$ 6.400,00), pico de resultado em abril (+R$ 9.400,00) e estabilização com margem mais estreita em maio (+R$ 2.940,77). A receita cresceu 21,8% de janeiro a maio, enquanto as despesas aumentaram 12,4%, resultando na expansão gradual da margem acumulada ao longo do período.\n\nO resultado acumulado de R$ 9.040,77 positivos sobre receita total de R$ 666.655,62 implica margem líquida de 1,4%, patamar estreito porém positivo que reflete a realidade do setor de compra de dívidas. A taxa de cancelamento de 1,1% sobre o total de 189 vendas demonstra qualidade nos acordos firmados. O aumento das despesas em maio em relação aos meses anteriores é o principal ponto de atenção, demandando vigilância para evitar que a compressão de margens evolua para resultado negativo nos meses seguintes.",
+      "error": null
+    }
+  },
+  "conclusao": "Maio de 2026 encerra os cinco primeiros meses do exercício com a Nirocred em território positivo, acumulando resultado líquido de R$ 9.040,77 sobre receitas de R$ 666.655,62 e despesas de R$ 657.614,85. A subsidiária de compra de dívidas do grupo Economy processou 189 vendas e 3.259 movimentos financeiros no período, demonstrando operação de alto volume com margens estreitas. A posição de recebíveis de R$ 838.206,76 contra obrigações de R$ 74.817,42 confere solidez à estrutura financeira da empresa.\n\nO principal desafio para o segundo semestre é a contenção de custos evidenciada pela pressão de despesas em maio, que comprimiu a margem mensal para 2,0%. A margem acumulada de 1,4% oferece reduzida tolerância a desvios, tornando essencial o monitoramento contínuo da relação entre custos de aquisição de carteiras e receitas de recuperação. A Nirocred deve priorizar a eficiência operacional e a qualidade das carteiras adquiridas, garantindo que cada real investido em compra de dívidas gere retorno superior ao custo de capital da operação."
+}
